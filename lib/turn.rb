@@ -1,4 +1,4 @@
-def display_board(
+def display_board
 end
 
 def input_to_index
